@@ -5,7 +5,7 @@ body {
 }
 
 #wrapper {
-    background: linear-gradient(rgb(0, 255, 200), rgb(255, 255, 255), rgb(243, 255, 139));
+    background: linear-gradient( rgb(0, 255, 200), rgb(255, 255, 255), rgb(243, 255, 139));
     width: 1100px;
     margin: 20px auto;
 }

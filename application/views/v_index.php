@@ -10,7 +10,7 @@
 
 				<ol type="a">
 				<li>Model</li>
-                <p align='justify'>Model adalah kelas yang merepresentasikan atau memodelkan tipe data yang akan 
+                <p align='justify'> Model adalah kelas yang merepresentasikan atau memodelkan tipe data yang akan 
                     digunakan oleh aplikasi. Model juga dapat didefinisikan sebagai bagian penanganan yang berhubungan 
                     dengan pengolahan atau manipulasi database. Seperti misalnya mengambil data dari database, 
                     menginput dan pengolahan database lainnya. Semua intruksi atau fungsi yang berhubung dengan 
