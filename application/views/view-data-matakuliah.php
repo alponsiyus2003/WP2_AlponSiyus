@@ -1,9 +1,7 @@
 <html>
-
 <head>
     <title>Tampil Data Matakuliah</title>
 </head>
-
 <body>
     <center>
         <table>
@@ -46,5 +44,4 @@
         </table>
     </center>
 </body>
-
 </html>
